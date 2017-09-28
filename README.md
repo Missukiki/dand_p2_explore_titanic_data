@@ -3,3 +3,4 @@
 titanic-data - Titanic数据
 data_description_overview.txt - 数据描述
 P2_explore_titanic_data.ipynb-项目作业（ipynb文件）
+P2_explore_titanic_data.html-项目作业（html文件）
